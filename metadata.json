@@ -1,0 +1,6 @@
+{
+  "name": "سیستم مدیریت فروشگاه عسل هونیش",
+  "description": "سیستم جامع مدیریت کسب‌وکار، انبار، فاکتورها، مشتریان و حسابداری فروشگاه عسل هونیش",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
